@@ -1,0 +1,1 @@
+https://www.configserverfirewall.com/windows-10/netcat-windows/

@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "bc1da4ab9dfedc73",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd8977eda5192cc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83d224cbab01f07a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/kernel exploits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2777f1a949ac7ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/lxd - priv esc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12f1b0489ad45fdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bffea9943c5335ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca51f12b0f2ca445",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "384920ab5dc79850",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hexa dump",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "516fd8bba04718ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "3b64d7b69db9427f",
+    "type": "split",
+    "children": [
+      {
+        "id": "77842cd19db62a04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99505af87edee2d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/lxd - priv esc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "768c2318b54a730c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/lxd - priv esc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3bdd7e9a305fa861",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd06e4a16d2c4996",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/lxd - priv esc.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2777f1a949ac7ab2",
+  "lastOpenFiles": [
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/kernel exploits.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/lxd - priv esc.md",
+    "5. Machines/HTB Machines/i Bastion/1. nmap.md",
+    "5. Machines/HTB Machines/i Bastion/Untitled.md",
+    "5. Machines/HTB Machines/i Curling/4. exploit.md",
+    "5. Machines/HTB Machines/i Curling/3. enum.md",
+    "5. Machines/HTB Machines/i Curling/2 80 http.md",
+    "5. Machines/HTB Machines/i Curling/1. nmap.md",
+    "Things Learnt/Hexa Dumps.md",
+    "Untitled",
+    "Things Learnt/PHP code to check RCE.md",
+    "3. Practical tools/findstr/1. findstr.md",
+    "1. FundaMentals/Web fundamentals/Web fundamentals 2/URL Encoding.md",
+    "3. Practical tools/base64/1. base64 - decoding.md",
+    "5. Machines/HTB Machines/i Curling",
+    "5. Machines/HTB Machines/i valentine/3. exploiting - heartbleed.md",
+    "5. Machines/HTB Machines/i valentine/1. nmap.md",
+    "5. Machines/HTB Machines/i valentine/2. web enum.md",
+    "5. Machines/HTB Machines/Beep/4. exploit 2.md",
+    "5. Machines/HTB Machines/Precious/4. priv esc.md",
+    "Things Learnt/SSL_ERROR_UNSUPPORTED_VERSION.md",
+    "2. Network services/SSH/SSH - info.md",
+    "2. Network services/SSH/SSH id_rsa.md",
+    "5. Machines/HTB Machines/Shocker/1. shocker.md",
+    "5. Machines/HTB Machines/i valentine",
+    "5. Machines/HTB Machines/Shocker/2. shellshock vuln.md",
+    "3. Practical tools/Web directory brute forcing/feroxbuster/1. feroxbuster.md",
+    "5. Machines/HTB Machines/Mirai/1. nmap.md",
+    "5. Machines/HTB Machines/Beep/5. exploit 3 - shellshock.md",
+    "3. Practical tools/Web directory brute forcing/feroxbuster",
+    "3. Practical tools/Web directory brute forcing",
+    "5. Machines/HTB Machines/Shocker",
+    "3. Practical tools/grep",
+    "5. Machines/HTB Machines/Mirai",
+    "5. Machines/HTB Challanges/Easy Phish",
+    "5. Machines/HTB Challanges"
+  ]
+}

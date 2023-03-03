@@ -1,0 +1,16 @@
+We can also use -exec falg to filter out results based on our requirement
+
+
+syntax — find <file-name> -exec <command> \;
+
+
+
+In below example we are finding multiple files with these name
+
+find / -type f \( -name 8V2L -o -name bny0 -o -name c4ZX -o -name D8B3 -o -name FHl1 -o -name oiMO -o -name PFbD -o -name rmfX -o -name SRSq -o -name uqyw -o -name v2Vb -o -name X1Uy \) 2>>/dev/null
+
+
+
+we can also use below reference link to find such commands
+
+https://www.tecmint.com/35-practical-examples-of-linux-find-command/

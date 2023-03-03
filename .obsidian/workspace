@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "bc1da4ab9dfedc73",
+    "type": "split",
+    "children": [
+      {
+        "id": "964de51b3b84fd38",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12f1b0489ad45fdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bffea9943c5335ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca51f12b0f2ca445",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "384920ab5dc79850",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hydra",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "516fd8bba04718ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 441.5
+  },
+  "right": {
+    "id": "3b64d7b69db9427f",
+    "type": "split",
+    "children": [
+      {
+        "id": "77842cd19db62a04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99505af87edee2d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "768c2318b54a730c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bdd7e9a305fa861",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd06e4a16d2c4996",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "964de51b3b84fd38",
+  "lastOpenFiles": [
+    "Web Fundamentals/Subdomain enumeration/OSINT - Sublist3r.md",
+    "Web Fundamentals/Subdomain enumeration/DNS Bruteforce.md",
+    "Web Fundamentals/Subdomain enumeration/OSINT - Search Engines.md",
+    "Web Fundamentals/Subdomain enumeration/OSINT - SSL - TLS certificate.md",
+    "Web Fundamentals/Subdomain enumeration/Subdomain enumeration - info.md",
+    "Web Fundamentals/Informational - to read/CDN (Content Delivery Networks).md",
+    "Web Fundamentals/content discovery/Manual - Favicon.md",
+    "Web Fundamentals/content discovery/Manual - Sitemap.xml.md",
+    "Web Fundamentals/content discovery/Manual - Robots.txt.md",
+    "Web Fundamentals/Informational - to read/Load balancers.md"
+  ]
+}

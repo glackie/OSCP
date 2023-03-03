@@ -1,0 +1,35 @@
+We will mount one of the “no_root_squash” shares to our attacking machine and start building our executable.
+
+  
+
+  
+
+![](https://i.imgur.com/DwAB1qs.png)  
+
+  
+
+As we can set SUID bits, a simple executable that will run /bin/bash on the target system will do the job.
+
+  
+
+![](https://i.imgur.com/nWKpFkK.png)  
+
+  
+
+Once we compile the code we will set the SUID bit.
+
+  
+
+![](https://i.imgur.com/rkZOOjZ.png)  
+
+  
+
+You will see below that both files (nfs.c and nfs are present on the target system. We have worked on the mounted share so there was no need to transfer them).
+
+  
+
+![](https://i.imgur.com/U7IjT38.png)  
+
+  
+
+Notice the nfs executable has the SUID bit set on the target system and runs with root privileges.

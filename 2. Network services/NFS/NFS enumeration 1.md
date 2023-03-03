@@ -1,0 +1,25 @@
+In order to do a more advanced enumeration of the NFS server, and shares- we're going to need a few tools. 
+The first of which is key to interacting with any NFS share from your local machine: **nfs-common**.
+
+It is important to have this package installed on any machine that uses NFS, either as client or server.
+It includes programs such as:
+**l****ockd, statd**, **showmount**, **nfsstat,** **gssd**, **idmapd** and **mount.nfs**. 
+
+Primarily, we are concerned with "showmount" and "mount.nfs" as these are going to be most useful to us when it comes to extracting information from the NFS share.
+
+**Mounting NFS shares**
+
+Your client’s system needs a directory where all the content shared by the host server in the export folder can be accessed. You can create  
+this folder anywhere on your system. Once you've created this mount point, you can use the "mount" command to connect the NFS share to the mount point on your machine like so:
+
+**sudo mount -t nfs IP:share /tmp/mount/ -nolock**
+
+**Tag** - **Function**
+
+mount - Execute the mount command
+
+-t nfs - Type of device to mount, then specifying that it's NFS
+
+IP:share - The IP Address of the NFS server, and the name of the share we wish to mount
+
+-nolock - Specifies not to use NLM locking
