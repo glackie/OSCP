@@ -3,5 +3,6 @@
   "fileSortOrder": "byCreatedTimeReverse",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Pasted Images",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "useTab": false
 }

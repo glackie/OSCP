@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "595280f46a2b0aa3",
+        "id": "982c4d6d609a3541",
         "type": "tabs",
         "children": [
           {
-            "id": "d6473d908b9aecbc",
+            "id": "94ecfb6d2c16e812",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5. Machines/HTB Machines/Pilgrimage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cewl",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -58,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b56a17356584f0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -81,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Machines/HTB Machines/Granny/1. Exploit.md",
+                "file": "5. Machines/HTB Machines/Pilgrimage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Machines/HTB Machines/Granny/1. Exploit.md",
+                "file": "5. Machines/HTB Machines/Pilgrimage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Machines/HTB Machines/Granny/1. Exploit.md"
+                "file": "5. Machines/HTB Machines/Pilgrimage.md"
               }
             }
           }
@@ -142,44 +154,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca51f12b0f2ca445",
+  "active": "94ecfb6d2c16e812",
   "lastOpenFiles": [
-    "5. Machines/HTB Machines/Grandpa/3. exploitation.md",
-    "5. Machines/HTB Machines/Grandpa/4. priv esc.md",
-    "3. Practical tools/Linux Tools/Web directory brute forcing/davtest/1. davtest.md",
-    "5. Machines/HTB Machines/Granny/1. Exploit.md",
-    "3. Practical tools/Linux Tools/Web directory brute forcing/davtest",
-    "5. Machines/HTB Machines/Granny",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/9. Hot Potato/1.3 Hot Potato.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/9. Hot Potato/1.2 Hot Potato.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/9. Hot Potato/1.1 Hot Potato.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/8. InstalledApplications/1.1 Installed Applications.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/7. StartupApps/1.2 Startup Apps.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/7. StartupApps/1.1 Startup Apps.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/6. Insecure GUIApps (CitrixMethod)/1.2 Insecure GUIApps.md",
-    "3. Practical tools/Windows cmd or ps tools/tasklist/2. tasklist example.md",
-    "3. Practical tools/Windows cmd or ps tools/tasklist/1. tasklist.md",
-    "3. Practical tools/Windows cmd or ps tools/tasklist",
-    "1. FundaMentals/Windows Fundamentals/Windows sessions and usage/Windows Subsystem for Linux (WSL).md",
-    "1. FundaMentals/Windows Fundamentals/Windows sessions and usage/Windows sessions.md",
-    "1. FundaMentals/Windows Fundamentals/Windows sessions and usage/Windows Management Instrumentation (WMI).md",
-    "1. FundaMentals/Windows Fundamentals/Windows sessions and usage/Microsoft Management Console (MMC).md",
-    "1. FundaMentals/Windows Fundamentals/Windows sessions and usage/Interacting with windows 3 - powershell.md",
-    "1. FundaMentals/Windows Fundamentals/Windows sessions and usage/Interacting with windows 2 - powershell.md",
-    "1. FundaMentals/Windows Fundamentals/Windows sessions and usage/Interacting with windows 1.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/5. Scheduled Tasks/1.3 Scheduled Tasks.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/5. Scheduled Tasks/1.2 Scheduled Tasks.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/5. Scheduled Tasks/1.1 Scheduled Tasks.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/7.1 Insecure Service Executables.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/3 Registry Exploits/2.1 AlwaysInstallElevated.md",
-    "7. Windows Privileged Escalations/2. Priv Esc Techniques/4. Passwords/6.1 passing The Hash.md",
-    "3. Practical tools/Linux Tools/Password cracking/creddump7/Untitled",
-    "3. Practical tools/Linux Tools/Password cracking/creddump7",
-    "3. Practical tools/Linux Tools/Basic Linux Tools/winexe",
-    "3. Practical tools/Windows cmd or ps tools/msiexec",
-    "3. Practical tools/Windows cmd or ps tools/reg",
-    "3. Practical tools/Windows cmd or ps tools/sc",
-    "3. Practical tools/Windows cmd or ps tools/accesschk",
-    "Pasted Images/Pasted image 20230305135215.png"
+    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/4. priv esc.md",
+    "5. Machines/HTB Machines/Pilgrimage.md",
+    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/3. ssh.md",
+    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/2. ftp.md",
+    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/1. nmap.md",
+    "5. Machines/THM Machines/THM_NIX/Psycho Break.md",
+    "1. FundaMentals/Reverse Engineering/2. Spectograms/1. Spectograms.md",
+    "1. FundaMentals/Reverse Engineering/1. Translation and shifting/1. Translation and Shifting.md",
+    "5. Machines/HTB Machines/i Curling/3. enum.md",
+    "3. Practical tools/Linux Tools/Stegnography Tools/gdb/1. gdb.md",
+    "3. Practical tools/Linux Tools/Stegnography Tools/exif/1. exif - info.md",
+    "3. Practical tools/Linux Tools/Stegnography Tools/binwalk/binwalk.md",
+    "1. FundaMentals/Reverse Engineering/3. Stegnography/2. Security through obscurity.md",
+    "1. FundaMentals/Reverse Engineering/3. Stegnography/1. Stegnography.md",
+    "1. FundaMentals/Reverse Engineering/1. Translation and shifting/5. ROT data format.md",
+    "1. FundaMentals/Reverse Engineering/1. Translation and shifting/4. Binary to text(ascii).md",
+    "1. FundaMentals/Reverse Engineering/1. Translation and shifting/3. base64 or base 32 to ascii.md",
+    "1. FundaMentals/Reverse Engineering/1. Translation and shifting/2. Hexadecial byte string to ascii.md",
+    "3. Practical tools/Linux Tools/Password cracking/ssh2john/ssh2john.md",
+    "5. Machines/THM Machines/THM_NIX/Gamingserver.md",
+    "Pasted Images/gamingserver secret.png",
+    "Pasted Images/gamingserver index source code.png",
+    "Pasted Images/gamingserver upload.png",
+    "Pasted Images/gamingserver robots.png",
+    "Pasted Images/website.png",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/lxd - priv esc.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/PATH - priv esc/Path - prev esc 2.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/PATH - priv esc/Path - prev esc 1.md",
+    "5. Machines/THM Machines/THM_Windows/i Blueprint/1. nmap.md",
+    "5. Machines/Boxes enumeration stuck/1. directory extension.md",
+    "5. Machines/THM Machines/THM_NIX/Simple CTF/Simple CTF.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Untitled",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Commands",
+    "3. Practical tools/Linux Tools/Password cracking/hashcat",
+    "3. Practical tools/Linux Tools/Web directory brute forcing/wpscan",
+    "5. Machines/THM Machines/THM_NIX/Mr Robot CTF",
+    "1. FundaMentals/File Transfer/3. Transferring files with codes",
+    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/3. Upload Operations",
+    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/2. Download Operations",
+    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods",
+    "1. FundaMentals/File Transfer/1. Windows File Transfer Methods/3. Upload Operations"
   ]
 }

@@ -16,7 +16,9 @@ Creating this command is fairly easy by copying /bin/bash as “thm” under the
 
   
 
-We have given executable rights to our copy of /bin/bash, please note that at this point it will run with our user’s right. What makes a privilege escalation possible within this context is that the path script runs with root privileges.
+We have given executable rights to our copy of /bin/bash, please note that at this point it will run with our user’s right. 
+
+What makes a privilege escalation possible within this context is that the path script runs with root privileges.
 
 
 Now, we simply run the “test” file and it will execute our “cat” command and output the contents of the “flag6.txt” file.
