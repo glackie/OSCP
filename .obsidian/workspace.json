@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "982c4d6d609a3541",
+        "id": "a626011be5fed4ba",
         "type": "tabs",
         "children": [
           {
-            "id": "94ecfb6d2c16e812",
+            "id": "f06bc2581d16fb10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Machines/HTB Machines/Pilgrimage.md",
+                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools/Ninja Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cewl",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Machines/HTB Machines/Pilgrimage.md",
+                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools/Ninja Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Machines/HTB Machines/Pilgrimage.md",
+                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools/Ninja Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Machines/HTB Machines/Pilgrimage.md"
+                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools/Ninja Tools.md"
               }
             }
           }
@@ -154,48 +154,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94ecfb6d2c16e812",
+  "active": "f06bc2581d16fb10",
   "lastOpenFiles": [
-    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/4. priv esc.md",
-    "5. Machines/HTB Machines/Pilgrimage.md",
-    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/3. ssh.md",
-    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/2. ftp.md",
-    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/1. nmap.md",
-    "5. Machines/THM Machines/THM_NIX/Psycho Break.md",
-    "1. FundaMentals/Reverse Engineering/2. Spectograms/1. Spectograms.md",
-    "1. FundaMentals/Reverse Engineering/1. Translation and shifting/1. Translation and Shifting.md",
-    "5. Machines/HTB Machines/i Curling/3. enum.md",
-    "3. Practical tools/Linux Tools/Stegnography Tools/gdb/1. gdb.md",
-    "3. Practical tools/Linux Tools/Stegnography Tools/exif/1. exif - info.md",
-    "3. Practical tools/Linux Tools/Stegnography Tools/binwalk/binwalk.md",
-    "1. FundaMentals/Reverse Engineering/3. Stegnography/2. Security through obscurity.md",
-    "1. FundaMentals/Reverse Engineering/3. Stegnography/1. Stegnography.md",
-    "1. FundaMentals/Reverse Engineering/1. Translation and shifting/5. ROT data format.md",
-    "1. FundaMentals/Reverse Engineering/1. Translation and shifting/4. Binary to text(ascii).md",
-    "1. FundaMentals/Reverse Engineering/1. Translation and shifting/3. base64 or base 32 to ascii.md",
-    "1. FundaMentals/Reverse Engineering/1. Translation and shifting/2. Hexadecial byte string to ascii.md",
-    "3. Practical tools/Linux Tools/Password cracking/ssh2john/ssh2john.md",
-    "5. Machines/THM Machines/THM_NIX/Gamingserver.md",
+    "5. Machines/THM Machines/Pickle Rick.md",
+    "5. Machines/THM Machines/THM_NIX/RootMe.md",
+    "5. Machines/THM Machines/THM_NIX/Simple CTF.md",
+    "5. Machines/THM Machines/THM_NIX/Anonforce - M.md",
+    "5. Machines/THM Machines/THM_NIX/library.md",
+    "5. Machines/THM Machines/THM_NIX/Wgel - M.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - wget.md",
+    "Pasted Images/wgel Root shell.png",
+    "Pasted Images/Pasted image 20230702022723.png",
+    "Pasted Images/wgel root flag.png",
+    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/3. Upload Operations/1. Web Uploads.md",
+    "Things Learnt/Misc - Study Related/How to make your system into a server using python module.md",
+    "Things Learnt/Random problems faced/SSL_ERROR_UNSUPPORTED_VERSION.md",
+    "Things Learnt/Random problems faced/Installing and using bluetooh on kali linux.md",
+    "Things Learnt/Random problems faced/229 - Entering Extended Passive Mode.md",
+    "Things Learnt/Post Exploitations/Windows/Opening Shortcuts files in Windows CMD.md",
+    "Things Learnt/Post Exploitations/Windows/How to turn your linux machine into SMB server and share files.md",
+    "3. Practical tools/Linux Tools/unshadow/unshadow.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - (ALL, !root).md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/specific .sh file.md",
+    "Pasted Images/wgel user flag.png",
+    "Pasted Images/wgel id_rsa.png",
+    "Pasted Images/wgel 2 dave username.png",
+    "Pasted Images/wgel source code.png",
+    "5. Machines/THM Machines/THM_NIX/Ignite/4. esc priv.md",
+    "5. Machines/THM Machines/THM_NIX/Ignite/3. Exploiting.md",
+    "5. Machines/THM Machines/THM_NIX/Ignite/2. Web portal.md",
+    "Pasted Images/Pasted image 20230701194759.png",
+    "3. Practical tools/Linux Tools/gpg.md",
+    "5. Machines/THM Machines/THM_NIX/Thompson - For Medium.md",
+    "3. Practical tools/Linux Tools/hashcat/2. syntax.md",
+    "3. Practical tools/Linux Tools/hashcat/1. Hashcat info.md",
+    "Things Learnt/Post Exploitations/Linux/How to get interactive bash shell - must be run from a terminal.md",
+    "5. Machines/HTB Machines/Jerry/2. foothold.md",
+    "5. Machines/THM Machines/THM_NIX/Untitled",
+    "3. Practical tools/Linux Tools/vim",
     "Pasted Images/gamingserver secret.png",
     "Pasted Images/gamingserver index source code.png",
-    "Pasted Images/gamingserver upload.png",
-    "Pasted Images/gamingserver robots.png",
-    "Pasted Images/website.png",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/lxd - priv esc.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/PATH - priv esc/Path - prev esc 2.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/PATH - priv esc/Path - prev esc 1.md",
-    "5. Machines/THM Machines/THM_Windows/i Blueprint/1. nmap.md",
-    "5. Machines/Boxes enumeration stuck/1. directory extension.md",
-    "5. Machines/THM Machines/THM_NIX/Simple CTF/Simple CTF.md",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/Untitled",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/Commands",
-    "3. Practical tools/Linux Tools/Password cracking/hashcat",
-    "3. Practical tools/Linux Tools/Web directory brute forcing/wpscan",
+    "3. Practical tools/Linux Tools/hashcat",
+    "3. Practical tools/Linux Tools/1. Web directory brute forcing/wpscan",
     "5. Machines/THM Machines/THM_NIX/Mr Robot CTF",
     "1. FundaMentals/File Transfer/3. Transferring files with codes",
     "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/3. Upload Operations",
-    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/2. Download Operations",
-    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods",
-    "1. FundaMentals/File Transfer/1. Windows File Transfer Methods/3. Upload Operations"
+    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/2. Download Operations"
   ]
 }

@@ -22,3 +22,9 @@ Whatever image to inject into the system it gives the output of
 [http://pilgrimage.htb/shrunk/6498372050753.jpeg](http://pilgrimage.htb/shrunk/6498372050753.jpeg)
 
 
+I learned about magic bytes and change the bytes of php file to jpeg file using this resource
+
+https://en.wikipedia.org/wiki/List_of_file_signatures
+
+
+I successfully uploaded the file on the machine, however i was not able to get a reverse shell and got stuck here with no witeup so will continue this later
