@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools/Ninja Tools.md",
+                "file": "1. FundaMentals/Bash Scripting/1. Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff3907ef939fcfb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. FundaMentals/Bash Scripting/7. Decision making - if-else-fi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06dc80c885b17ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Machines/THM Machines/THM_NIX/Dav.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1373efd88ce859df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Practical tools/Linux Tools/hashcat/2. syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hashcat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools/Ninja Tools.md",
+                "file": "1. FundaMentals/Bash Scripting/1. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools/Ninja Tools.md",
+                "file": "1. FundaMentals/Bash Scripting/1. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools/Ninja Tools.md"
+                "file": "1. FundaMentals/Bash Scripting/1. Intro.md"
               }
             }
           }
@@ -154,53 +191,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f06bc2581d16fb10",
+  "active": "ca51f12b0f2ca445",
   "lastOpenFiles": [
-    "5. Machines/THM Machines/Pickle Rick.md",
-    "5. Machines/THM Machines/THM_NIX/RootMe.md",
-    "5. Machines/THM Machines/THM_NIX/Simple CTF.md",
-    "5. Machines/THM Machines/THM_NIX/Anonforce - M.md",
-    "5. Machines/THM Machines/THM_NIX/library.md",
-    "5. Machines/THM Machines/THM_NIX/Wgel - M.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - wget.md",
+    "3. Practical tools/Linux Tools/hashcat/2. syntax.md",
+    "3. Practical tools/Linux Tools/hashcat/1. Hashcat info.md",
+    "5. Machines/THM Machines/THM_NIX/Dav.md",
+    "1. FundaMentals/Bash Scripting/13. Input and Output.md",
+    "1. FundaMentals/Bash Scripting/14. Debugging.md",
+    "1. FundaMentals/Bash Scripting/2.1 Special variables.md",
+    "1. FundaMentals/Bash Scripting/2. Variables.md",
+    "1. FundaMentals/Bash Scripting/1. Intro.md",
+    "1. FundaMentals/Bash Scripting/7.2 File operators.md",
+    "1. FundaMentals/Bash Scripting/7. Decision making - if-else-fi.md",
+    "1. FundaMentals/Bash Scripting/8. Loops.md",
+    "1. FundaMentals/Bash Scripting/9. ARRAY COMPARISION.md",
+    "1. FundaMentals/Bash Scripting/6. Basic String Operations.md",
+    "1. FundaMentals/Bash Scripting/3. Passing argument to scripts.md",
+    "1. FundaMentals/Bash Scripting/4. Arrays.md",
+    "1. FundaMentals/Bash Scripting/5. Basic Arithmetic Operations.md",
+    "1. FundaMentals/Bash Scripting/12. Counter example.md",
+    "1. FundaMentals/Bash Scripting/11. Check for input arguments.md",
+    "1. FundaMentals/Bash Scripting/10. Shell functions.md",
+    "1. FundaMentals/Linux Fundamentals/1 .Linux Commands Help/1. Man - linux command.md",
+    "3. Practical tools/Linux Tools/expr.md",
+    "1. FundaMentals/Bash Scripting",
+    "5. Machines/THM Machines/THM_NIX/Kenobi.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/SUID - priv esc/SUID - bin_systemctl.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/SUID - priv esc/SUID - priv esc 1.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/SUID - priv esc/SUID - (THM kenobi) - not full path binaries.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/SUID - priv esc/SUID - priv esc 2.md",
+    "Pasted Images/Pasted image 20230702124714.png",
     "Pasted Images/wgel Root shell.png",
     "Pasted Images/Pasted image 20230702022723.png",
     "Pasted Images/wgel root flag.png",
-    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/3. Upload Operations/1. Web Uploads.md",
-    "Things Learnt/Misc - Study Related/How to make your system into a server using python module.md",
-    "Things Learnt/Random problems faced/SSL_ERROR_UNSUPPORTED_VERSION.md",
-    "Things Learnt/Random problems faced/Installing and using bluetooh on kali linux.md",
-    "Things Learnt/Random problems faced/229 - Entering Extended Passive Mode.md",
-    "Things Learnt/Post Exploitations/Windows/Opening Shortcuts files in Windows CMD.md",
-    "Things Learnt/Post Exploitations/Windows/How to turn your linux machine into SMB server and share files.md",
-    "3. Practical tools/Linux Tools/unshadow/unshadow.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - (ALL, !root).md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/specific .sh file.md",
     "Pasted Images/wgel user flag.png",
     "Pasted Images/wgel id_rsa.png",
     "Pasted Images/wgel 2 dave username.png",
     "Pasted Images/wgel source code.png",
-    "5. Machines/THM Machines/THM_NIX/Ignite/4. esc priv.md",
-    "5. Machines/THM Machines/THM_NIX/Ignite/3. Exploiting.md",
-    "5. Machines/THM Machines/THM_NIX/Ignite/2. Web portal.md",
     "Pasted Images/Pasted image 20230701194759.png",
-    "3. Practical tools/Linux Tools/gpg.md",
-    "5. Machines/THM Machines/THM_NIX/Thompson - For Medium.md",
-    "3. Practical tools/Linux Tools/hashcat/2. syntax.md",
-    "3. Practical tools/Linux Tools/hashcat/1. Hashcat info.md",
-    "Things Learnt/Post Exploitations/Linux/How to get interactive bash shell - must be run from a terminal.md",
-    "5. Machines/HTB Machines/Jerry/2. foothold.md",
     "5. Machines/THM Machines/THM_NIX/Untitled",
     "3. Practical tools/Linux Tools/vim",
     "Pasted Images/gamingserver secret.png",
-    "Pasted Images/gamingserver index source code.png",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/Untitled",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/Commands",
     "3. Practical tools/Linux Tools/hashcat",
     "3. Practical tools/Linux Tools/1. Web directory brute forcing/wpscan",
     "5. Machines/THM Machines/THM_NIX/Mr Robot CTF",
     "1. FundaMentals/File Transfer/3. Transferring files with codes",
-    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/3. Upload Operations",
-    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/2. Download Operations"
+    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/3. Upload Operations"
   ]
 }

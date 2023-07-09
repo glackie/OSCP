@@ -11,4 +11,6 @@ You will notice these files have an “s” bit set showing their special permis
 
 
 
+    IF the SUID bit binary is not in the GTFO bins then it is probable a custom binary and  refer
 
+[[SUID - (THM kenobi) - not full path binaries]]
