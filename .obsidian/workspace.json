@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a626011be5fed4ba",
+        "id": "fc886e01255404d6",
         "type": "tabs",
         "children": [
           {
-            "id": "f06bc2581d16fb10",
+            "id": "4a777e9649a2439b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. FundaMentals/Bash Scripting/1. Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff3907ef939fcfb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. FundaMentals/Bash Scripting/7. Decision making - if-else-fi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06dc80c885b17ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/Dav.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1373efd88ce859df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Practical tools/Linux Tools/hashcat/2. syntax.md",
+                "file": "5. Machines/THM Machines/THM_Windows/Blaster.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hashcat",
+                "query": "netcat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 491.5
   },
   "right": {
     "id": "3b64d7b69db9427f",
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FundaMentals/Bash Scripting/1. Intro.md",
+                "file": "5. Machines/THM Machines/THM_Windows/Blaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FundaMentals/Bash Scripting/1. Intro.md",
+                "file": "5. Machines/THM Machines/THM_Windows/Blaster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FundaMentals/Bash Scripting/1. Intro.md"
+                "file": "5. Machines/THM Machines/THM_Windows/Blaster.md"
               }
             }
           }
@@ -191,53 +154,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca51f12b0f2ca445",
+  "active": "4a777e9649a2439b",
   "lastOpenFiles": [
-    "3. Practical tools/Linux Tools/hashcat/2. syntax.md",
-    "3. Practical tools/Linux Tools/hashcat/1. Hashcat info.md",
-    "5. Machines/THM Machines/THM_NIX/Dav.md",
-    "1. FundaMentals/Bash Scripting/13. Input and Output.md",
-    "1. FundaMentals/Bash Scripting/14. Debugging.md",
-    "1. FundaMentals/Bash Scripting/2.1 Special variables.md",
-    "1. FundaMentals/Bash Scripting/2. Variables.md",
-    "1. FundaMentals/Bash Scripting/1. Intro.md",
-    "1. FundaMentals/Bash Scripting/7.2 File operators.md",
-    "1. FundaMentals/Bash Scripting/7. Decision making - if-else-fi.md",
-    "1. FundaMentals/Bash Scripting/8. Loops.md",
-    "1. FundaMentals/Bash Scripting/9. ARRAY COMPARISION.md",
-    "1. FundaMentals/Bash Scripting/6. Basic String Operations.md",
-    "1. FundaMentals/Bash Scripting/3. Passing argument to scripts.md",
-    "1. FundaMentals/Bash Scripting/4. Arrays.md",
-    "1. FundaMentals/Bash Scripting/5. Basic Arithmetic Operations.md",
-    "1. FundaMentals/Bash Scripting/12. Counter example.md",
-    "1. FundaMentals/Bash Scripting/11. Check for input arguments.md",
-    "1. FundaMentals/Bash Scripting/10. Shell functions.md",
-    "1. FundaMentals/Linux Fundamentals/1 .Linux Commands Help/1. Man - linux command.md",
-    "3. Practical tools/Linux Tools/expr.md",
+    "5. Machines/THM Machines/THM_NIX/Lazy Admin.md",
+    "5. Machines/THM Machines/THM_Windows/Blaster.md",
+    "5. Machines/THM Machines/THM_NIX/LazyAdmin/4. priv esc.md",
+    "5. Machines/THM Machines/THM_NIX/LazyAdmin/3. Exploiting.md",
+    "5. Machines/THM Machines/THM_NIX/LazyAdmin/2. http.md",
+    "5. Machines/THM Machines/THM_NIX/LazyAdmin/1. nmap.md",
+    "5. Machines/THM Machines/THM_NIX/Bounty Hunter.md",
+    "5. Machines/THM Machines/THM_NIX/Agent Sudo.md",
+    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/4. priv esc.md",
+    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/3. ssh.md",
+    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/2. ftp.md",
+    "5. Machines/THM Machines/THM_NIX/Bounty Hacker/1. nmap.md",
+    "5. Machines/THM Machines/THM_NIX/Mr Robot.md",
+    "5. Machines/THM Machines/THM_NIX/Agent Sudo/Untitled.md",
+    "5. Machines/THM Machines/THM_NIX/Agent Sudo/Untitled 1.md",
+    "5. Machines/THM Machines/THM_NIX/Mr Robot CTF/5. priv esc.md",
+    "5. Machines/THM Machines/THM_NIX/Mr Robot CTF/4.  Getting a shell.md",
+    "5. Machines/THM Machines/THM_NIX/RootMe.md",
+    "5. Machines/THM Machines/THM_NIX/Mr Robot CTF/3. Wp login.md",
+    "5. Machines/THM Machines/THM_NIX/Mr Robot CTF/1. nmap.md",
+    "5. Machines/THM Machines/THM_NIX/Mr Robot CTF/2. Robots.txt.md",
+    "5. Machines/THM Machines/Ninja Tools.md",
+    "5. Machines/THM Machines/THM_NIX/Anonforce - M.md",
+    "5. Machines/THM Machines/THM_NIX/Psycho Break.md",
+    "5. Machines/THM Machines/THM_NIX/library.md",
+    "5. Machines/THM Machines/THM_NIX/Madness.md",
+    "Pasted Images/thm.jpg",
+    "Pasted Images/Pasted image 20230725035739.png",
+    "Pasted Images/Pasted image 20230725035735.png",
+    "Pasted Images/Pasted image 20230725035403.png",
+    "Pasted Images/Pasted image 20230725035032.png",
+    "Pasted Images/Pasted image 20230725034941.png",
+    "Pasted Images/Pasted image 20230723210440.png",
+    "Pasted Images/Pasted image 20230723205407.png",
+    "Pasted Images/firefox-address-is-restricted-error-port-restriction.webp",
+    "Pasted Images/Pasted image 20230723205318.png",
+    "3. Practical tools/Linux Tools/sqlmap",
     "1. FundaMentals/Bash Scripting",
-    "5. Machines/THM Machines/THM_NIX/Kenobi.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/SUID - priv esc/SUID - bin_systemctl.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/SUID - priv esc/SUID - priv esc 1.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/SUID - priv esc/SUID - (THM kenobi) - not full path binaries.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/SUID - priv esc/SUID - priv esc 2.md",
-    "Pasted Images/Pasted image 20230702124714.png",
-    "Pasted Images/wgel Root shell.png",
-    "Pasted Images/Pasted image 20230702022723.png",
-    "Pasted Images/wgel root flag.png",
-    "Pasted Images/wgel user flag.png",
-    "Pasted Images/wgel id_rsa.png",
-    "Pasted Images/wgel 2 dave username.png",
-    "Pasted Images/wgel source code.png",
-    "Pasted Images/Pasted image 20230701194759.png",
     "5. Machines/THM Machines/THM_NIX/Untitled",
     "3. Practical tools/Linux Tools/vim",
-    "Pasted Images/gamingserver secret.png",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/Untitled",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/Commands",
     "3. Practical tools/Linux Tools/hashcat",
     "3. Practical tools/Linux Tools/1. Web directory brute forcing/wpscan",
     "5. Machines/THM Machines/THM_NIX/Mr Robot CTF",
-    "1. FundaMentals/File Transfer/3. Transferring files with codes",
-    "1. FundaMentals/File Transfer/2. Linux File Transfer Methods/3. Upload Operations"
+    "1. FundaMentals/File Transfer/3. Transferring files with codes"
   ]
 }

@@ -12,6 +12,8 @@ example enumeration
 
 	root@ip-10-10-211-200:~# mysql -h 10.10.41.252 -u root -p
 
+also try to guess the password as `root`
+
 Now using metasploit:
 
 > auxiliary(admin/mysql/mysql_sql) > options

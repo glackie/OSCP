@@ -18,7 +18,9 @@ use htb{database-name}
 
 MariaDB [htb]> SHOW TABLES;
 
+>How to get data from a table
 
+MySQL [users]> SELECT * FROM User;
 
 
  
