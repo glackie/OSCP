@@ -20,7 +20,7 @@ pgp --import key.asc
 
 pgp --decrypt file.pgp
 
-    if the private_key.asc file has  a passphrase we can maybe crack it using the gpg2john utility
+        if the private_key.asc file has  a passphrase we can maybe crack it using the gpg2john utility
 
 Example of it is below
 

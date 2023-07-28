@@ -40,4 +40,44 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 301        2l       10w      161c http://10.10.157.217/retro/wp-content
 ```
 
-and more
+4. potential username
+```
+## [](http://10.10.54.98/retro/index.php/2019/12/09/tron-arcade-cabinet/ "Tron Arcade Cabinet")
+
+by [Wade](http://10.10.54.98/retro/index.php/author/wade/ "Posts by Wade")
+```
+
+
+5. potential Password:
+`I keep mistyping the name of his avatar whenever I log in but I think I’ll eventually get it down.`
+
+Ready Player One main character avatar name is - parzival
+
+6. loggin into the machine using xfreerdp
+
+```
+┌─[✗]─[glack@parrot]─[~/Desktop/THM/smart_grotto]
+└──╼ $xfreerdp /v:10.10.54.98 /u:wade /p:parzival
+```
+
+and got the user flag
+
+```
+THM{HACK_PLAYER_ONE}
+```
+
+### priv ESC
+
+1. Was not able to find CVE so used the hint.
+2. Used this - https://justinsaechao23.medium.com/cve-2019-1388-windows-certificate-dialog-elevation-of-privilege-4d247df5b4d7 - escalate privileges
+3. I followed the steps and got `nt authority\system` shell
+![[Pasted image 20230728213907.png]]
+
+4. And we get the root flag
+![[Pasted image 20230728214055.png]]
+
+THM{COIN_OPERATED_EXPLOITATION}
+
+
+Remaining part of this room was using metasploit so i just used the writeup for it
+
