@@ -11,8 +11,12 @@
             "id": "59cd83dcb538f51a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5. Machines/THM Machines/THM_NIX/RootMe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/kernel exploits.md",
+                "file": "5. Machines/THM Machines/THM_NIX/RootMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/kernel exploits.md",
+                "file": "5. Machines/THM Machines/THM_NIX/RootMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/kernel exploits.md"
+                "file": "5. Machines/THM Machines/THM_NIX/RootMe.md"
               }
             }
           }
@@ -152,19 +156,24 @@
   },
   "active": "ca51f12b0f2ca445",
   "lastOpenFiles": [
+    "5. Machines/THM Machines/THM_NIX/Simple CTF.md",
+    "5. Machines/THM Machines/THM_NIX/Smart grotto.md",
+    "5. Machines/THM Machines/THM_NIX/Startup.md",
+    "5. Machines/THM Machines/THM_NIX/The Chocolate Room.md",
+    "5. Machines/THM Machines/THM_NIX/The Cod Caper.md",
+    "5. Machines/THM Machines/THM_NIX/Thompson - For Medium.md",
+    "5. Machines/THM Machines/THM_NIX/Wgel - M.md",
+    "5. Machines/THM Machines/THM_NIX/year of the rabbit.md",
     "5. Machines/THM Machines/THM_Windows/Blaster.md",
     "3. Practical tools/Linux Tools/ssh2john/ssh2john.md",
     "Things Learnt/Post Exploitations/Linux/How to get interactive bash shell - must be run from a terminal.md",
-    "5. Machines/THM Machines/THM_NIX/The Cod Caper.md",
     "Things Learnt/RCE/RCE to reverse shell - php.md",
     "5. Machines/THM Machines/THM_NIX/Chill Hack.md",
     "5. Machines/THM Machines/THM_NIX/Bolt.md",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - (ALL, !root).md",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/docker - docker in user id.md",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - as a different user.md",
-    "5. Machines/THM Machines/THM_NIX/Smart grotto.md",
     "5. Machines/THM Machines/THM_NIX/Kenobi.md",
-    "5. Machines/THM Machines/THM_NIX/The Chocolate Room.md",
     "2. Network services/SSH/SSH id_rsa.md",
     "5. Machines/THM Machines/THM_NIX/Cyborg.md",
     "3. Practical tools/Linux Tools/hydra/hydra ssh.md",
@@ -173,11 +182,6 @@
     "Untitled.md",
     "Things Learnt/python b`string`.md",
     "3. Practical tools/Linux Tools/netstat.md",
-    "7. Windows Privileged Escalations/Extra/1. Enumeration/3. Network enumeration.md",
-    "Things Learnt/Post Exploitations/Linux/Using netstat to see localhost ports and connections.md",
-    "Things Learnt/Post Exploitations/Linux/Finding users with bash access.md",
-    "Things Learnt/Post Exploitations/Linux/Stable shell via socat.md",
-    "3. Practical tools/Linux Tools/johntheripper/john command syntax.md",
     "3. Practical tools/Linux Tools/johntheripper",
     "Pasted Images/Pasted image 20220925183428.png",
     "Pasted Images/Pasted image 20230829030019.png",
