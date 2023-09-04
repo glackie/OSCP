@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/RootMe.md",
+                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/RootMe.md",
+                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/RootMe.md",
+                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/RootMe.md"
+                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools.md"
               }
             }
           }
@@ -154,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca51f12b0f2ca445",
+  "active": "59cd83dcb538f51a",
   "lastOpenFiles": [
+    "5. Machines/THM Machines/THM_NIX/Overpass.md",
+    "5. Machines/THM Machines/THM_NIX/Pickle Rick.md",
+    "5. Machines/THM Machines/THM_NIX/Psycho Break.md",
+    "5. Machines/THM Machines/THM_NIX/RootMe.md",
     "5. Machines/THM Machines/THM_NIX/Simple CTF.md",
     "5. Machines/THM Machines/THM_NIX/Smart grotto.md",
     "5. Machines/THM Machines/THM_NIX/Startup.md",
@@ -178,10 +182,6 @@
     "5. Machines/THM Machines/THM_NIX/Cyborg.md",
     "3. Practical tools/Linux Tools/hydra/hydra ssh.md",
     "Things Learnt/brcypt - info and cracking.md",
-    "5. Machines/THM Machines/THM_NIX/Lunizz CTF.md",
-    "Untitled.md",
-    "Things Learnt/python b`string`.md",
-    "3. Practical tools/Linux Tools/netstat.md",
     "3. Practical tools/Linux Tools/johntheripper",
     "Pasted Images/Pasted image 20220925183428.png",
     "Pasted Images/Pasted image 20230829030019.png",
