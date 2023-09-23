@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f5abf97a71818b2",
+        "id": "8f476be4cb635909",
         "type": "tabs",
         "children": [
           {
-            "id": "59cd83dcb538f51a",
+            "id": "8f4b87e7e9c8076e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools.md",
+                "file": "1. FundaMentals/6. Programming/MySql/4.2 PHP Mysql Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#value",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 337.5026054382324
   },
   "right": {
     "id": "3b64d7b69db9427f",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools.md",
+                "file": "1. FundaMentals/6. Programming/MySql/4.2 PHP Mysql Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools.md",
+                "file": "1. FundaMentals/6. Programming/MySql/4.2 PHP Mysql Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Machines/THM Machines/THM_NIX/Ninja Tools.md"
+                "file": "1. FundaMentals/6. Programming/MySql/4.2 PHP Mysql Authentication.md"
+              }
+            }
+          },
+          {
+            "id": "28ee611e7d324949",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -154,53 +164,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59cd83dcb538f51a",
+  "active": "8f4b87e7e9c8076e",
   "lastOpenFiles": [
-    "5. Machines/THM Machines/THM_NIX/Overpass.md",
-    "5. Machines/THM Machines/THM_NIX/Pickle Rick.md",
-    "5. Machines/THM Machines/THM_NIX/Psycho Break.md",
-    "5. Machines/THM Machines/THM_NIX/RootMe.md",
-    "5. Machines/THM Machines/THM_NIX/Simple CTF.md",
-    "5. Machines/THM Machines/THM_NIX/Smart grotto.md",
-    "5. Machines/THM Machines/THM_NIX/Startup.md",
-    "5. Machines/THM Machines/THM_NIX/The Chocolate Room.md",
-    "5. Machines/THM Machines/THM_NIX/The Cod Caper.md",
-    "5. Machines/THM Machines/THM_NIX/Thompson - For Medium.md",
-    "5. Machines/THM Machines/THM_NIX/Wgel - M.md",
-    "5. Machines/THM Machines/THM_NIX/year of the rabbit.md",
-    "5. Machines/THM Machines/THM_Windows/Blaster.md",
-    "3. Practical tools/Linux Tools/ssh2john/ssh2john.md",
-    "Things Learnt/Post Exploitations/Linux/How to get interactive bash shell - must be run from a terminal.md",
-    "Things Learnt/RCE/RCE to reverse shell - php.md",
-    "5. Machines/THM Machines/THM_NIX/Chill Hack.md",
-    "5. Machines/THM Machines/THM_NIX/Bolt.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - (ALL, !root).md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/docker - docker in user id.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - as a different user.md",
-    "5. Machines/THM Machines/THM_NIX/Kenobi.md",
-    "2. Network services/SSH/SSH id_rsa.md",
-    "5. Machines/THM Machines/THM_NIX/Cyborg.md",
-    "3. Practical tools/Linux Tools/hydra/hydra ssh.md",
-    "Things Learnt/brcypt - info and cracking.md",
-    "3. Practical tools/Linux Tools/johntheripper",
+    "1. FundaMentals/6. Programming/MySql/4.1 SQL Database Commands.md",
+    "1. FundaMentals/6. Programming/MySql/4.2 PHP Mysql Authentication.md",
+    "1. FundaMentals/6. Programming/MySql/4. SQL Server in linux and integration.md",
+    "1. FundaMentals/6. Programming/MySql/3. SQL Statements examples.md",
+    "1. FundaMentals/6. Programming/MySql/2. SQL Syntax.md",
+    "1. FundaMentals/6. Programming/MySql/1. MySQL Database.md",
+    "1. FundaMentals/6. Programming/PHP/1. PHP intro.md",
+    "1. FundaMentals/6. Programming/MySql",
+    "1. FundaMentals/6. Programming/PHP/15.4 PHP Forms - Validate E-mail and URL.md",
+    "1. FundaMentals/6. Programming/PHP/15.3 PHP Forms - Required Fields.md",
+    "1. FundaMentals/6. Programming/PHP/15.2 PHP Form validation.md",
+    "1. FundaMentals/6. Programming/PHP/15.1 PHP Form Handling.md",
+    "1. FundaMentals/6. Programming/PHP/14. PHP Super Globals.md",
+    "1. FundaMentals/6. Programming/PHP/13. PHP Functions.md",
+    "1. FundaMentals/6. Programming/PHP/12. PHP Loops.md",
+    "1. FundaMentals/6. Programming/PHP/11. PHP If else.md",
+    "1. FundaMentals/6. Programming/PHP/10. PHP Operators.md",
+    "1. FundaMentals/6. Programming/PHP/9. PHP Arrays.md",
+    "1. FundaMentals/6. Programming/PHP/8. PHP Constant.md",
+    "1. FundaMentals/6. Programming/PHP/7. PHP Math.md",
+    "1. FundaMentals/6. Programming/PHP/6. PHP numbers.md",
+    "1. FundaMentals/6. Programming/PHP/5. PHP strings.md",
+    "1. FundaMentals/6. Programming/PHP/4. PHP echo and print.md",
+    "1. FundaMentals/6. Programming/PHP/3. PHP Variables.md",
+    "1. FundaMentals/6. Programming/PHP/2. PHP syntax.md",
+    "Things Learnt/PHP code on vscode.md",
+    "1. FundaMentals/6. Programming/JavaScript/15. For Loops.md",
+    "1. FundaMentals/6. Programming/PHP",
+    "Things Learnt/Obsidian",
+    "Projects/Custom Github Domain",
+    "1. FundaMentals/i Ruby",
+    "1. FundaMentals/i Drupal",
+    "1. FundaMentals/i Flask JS",
+    "1. FundaMentals/i Node JS",
+    "Pasted Images/Pasted image 20230915030216.png",
+    "Projects/Customising terminal",
+    "Projects",
     "Pasted Images/Pasted image 20220925183428.png",
     "Pasted Images/Pasted image 20230829030019.png",
-    "5. Machines/THM Machines/THM_Other",
-    "1. FundaMentals/i Bug Bounty Hunting",
-    "1. FundaMentals/6. Programming/HTML/Practice",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Untitled",
-    "1. FundaMentals/4.1 OWASP/OWASP ZAP",
-    "4. WAPT/Practice/OWASP Juice Shop",
-    "4. WAPT/Practice/Portswigger/Untitled",
-    "4. WAPT/Practice/Portswigger",
-    "1. FundaMentals/4.1 OWASP",
     "Pasted Images/Pasted image 20230728214055.png",
     "Pasted Images/Pasted image 20230728213907.png",
     "Pasted Images/Pasted image 20230728161438.png",
     "Pasted Images/Pasted image 20230728145216.png",
     "Pasted Images/thm.jpg",
     "Pasted Images/Pasted image 20230725035739.png",
-    "Pasted Images/Pasted image 20230725035735.png",
-    "Pasted Images/Pasted image 20230725035403.png"
+    "Pasted Images/Pasted image 20230725035735.png"
   ]
 }
