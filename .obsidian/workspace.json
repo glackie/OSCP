@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. FundaMentals/6. Programming/MySql/4.2 PHP Mysql Authentication.md",
+                "file": "1. FundaMentals/6. Programming/Web Development/1. Frond End/i 3. Bootstrap 5/2. BS5 Containers.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5026054382324
+    "width": 440.5
   },
   "right": {
     "id": "3b64d7b69db9427f",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FundaMentals/6. Programming/MySql/4.2 PHP Mysql Authentication.md",
+                "file": "1. FundaMentals/6. Programming/Web Development/1. Frond End/i 3. Bootstrap 5/2. BS5 Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FundaMentals/6. Programming/MySql/4.2 PHP Mysql Authentication.md",
+                "file": "1. FundaMentals/6. Programming/Web Development/1. Frond End/i 3. Bootstrap 5/2. BS5 Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FundaMentals/6. Programming/MySql/4.2 PHP Mysql Authentication.md"
+                "file": "1. FundaMentals/6. Programming/Web Development/1. Frond End/i 3. Bootstrap 5/2. BS5 Containers.md"
               }
             }
           },
@@ -166,51 +166,51 @@
   },
   "active": "8f4b87e7e9c8076e",
   "lastOpenFiles": [
-    "1. FundaMentals/6. Programming/MySql/4.1 SQL Database Commands.md",
-    "1. FundaMentals/6. Programming/MySql/4.2 PHP Mysql Authentication.md",
-    "1. FundaMentals/6. Programming/MySql/4. SQL Server in linux and integration.md",
-    "1. FundaMentals/6. Programming/MySql/3. SQL Statements examples.md",
-    "1. FundaMentals/6. Programming/MySql/2. SQL Syntax.md",
-    "1. FundaMentals/6. Programming/MySql/1. MySQL Database.md",
-    "1. FundaMentals/6. Programming/PHP/1. PHP intro.md",
-    "1. FundaMentals/6. Programming/MySql",
-    "1. FundaMentals/6. Programming/PHP/15.4 PHP Forms - Validate E-mail and URL.md",
-    "1. FundaMentals/6. Programming/PHP/15.3 PHP Forms - Required Fields.md",
-    "1. FundaMentals/6. Programming/PHP/15.2 PHP Form validation.md",
-    "1. FundaMentals/6. Programming/PHP/15.1 PHP Form Handling.md",
-    "1. FundaMentals/6. Programming/PHP/14. PHP Super Globals.md",
-    "1. FundaMentals/6. Programming/PHP/13. PHP Functions.md",
-    "1. FundaMentals/6. Programming/PHP/12. PHP Loops.md",
-    "1. FundaMentals/6. Programming/PHP/11. PHP If else.md",
-    "1. FundaMentals/6. Programming/PHP/10. PHP Operators.md",
-    "1. FundaMentals/6. Programming/PHP/9. PHP Arrays.md",
-    "1. FundaMentals/6. Programming/PHP/8. PHP Constant.md",
-    "1. FundaMentals/6. Programming/PHP/7. PHP Math.md",
-    "1. FundaMentals/6. Programming/PHP/6. PHP numbers.md",
-    "1. FundaMentals/6. Programming/PHP/5. PHP strings.md",
-    "1. FundaMentals/6. Programming/PHP/4. PHP echo and print.md",
-    "1. FundaMentals/6. Programming/PHP/3. PHP Variables.md",
-    "1. FundaMentals/6. Programming/PHP/2. PHP syntax.md",
-    "Things Learnt/PHP code on vscode.md",
-    "1. FundaMentals/6. Programming/JavaScript/15. For Loops.md",
-    "1. FundaMentals/6. Programming/PHP",
+    "1. FundaMentals/6. Programming/i Python/5. Python Strings.md",
+    "1. FundaMentals/6. Programming/i Python/4. Python Casting.md",
+    "1. FundaMentals/6. Programming/i Python/3. Python Data Types.md",
+    "1. FundaMentals/6. Programming/i Python/2. Python Variables.md",
+    "1. FundaMentals/6. Programming/i Python/1. Python Info.md",
+    "1. FundaMentals/6. Programming/Web Development/2. Back End/PHP/1. PHP intro.md",
+    "1. FundaMentals/6. Programming/i Python",
+    "1. FundaMentals/6. Programming/Web Development/1. Frond End/i 3. Bootstrap 5/2. BS5 Containers.md",
+    "Pasted Images/Pasted image 20230925021259.png",
+    "1. FundaMentals/6. Programming/Web Development/1. Frond End/i 3. Bootstrap 5/1.1 Bootstrap 5 first page.md",
+    "Pasted Images/Pasted image 20230925020947.png",
+    "1. FundaMentals/6. Programming/Web Development/1. Frond End/i 3. Bootstrap 5/1. Bootstrap 5 Info.md",
+    "1. FundaMentals/6. Programming/Web Development/1. Frond End/i 3. Bootstrap 5",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/8. What is JSON.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/17. Full stack JS.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/16. Full Stack Development.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/15. Front End Development.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/14. What is Vue.js.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/13. What is React.js.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/12. What is Angular JS.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/11. What is jquery.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/10. What is npm.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/2. HTML, CSS and Javascript.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/9. What is Bootstrap 5.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/7. What is AJAX.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/6. What is XML.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/5. Google Maps API.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/4. HTML DOM.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/3. Responsive Web Pages.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/1. Web Development Info.md",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes",
+    "1. FundaMentals/6. Programming/Web Development/2. Back End",
+    "1. FundaMentals/6. Programming/Web Development/1. Frond End",
+    "1. FundaMentals/6. Programming/Web Development",
+    "1. FundaMentals/i Bootstrap",
+    "1. FundaMentals/6. Programming/Web Development/2. Back End/MySql",
+    "1. FundaMentals/6. Programming/Web Development/2. Back End/PHP",
     "Things Learnt/Obsidian",
-    "Projects/Custom Github Domain",
-    "1. FundaMentals/i Ruby",
-    "1. FundaMentals/i Drupal",
-    "1. FundaMentals/i Flask JS",
-    "1. FundaMentals/i Node JS",
     "Pasted Images/Pasted image 20230915030216.png",
-    "Projects/Customising terminal",
-    "Projects",
     "Pasted Images/Pasted image 20220925183428.png",
     "Pasted Images/Pasted image 20230829030019.png",
     "Pasted Images/Pasted image 20230728214055.png",
     "Pasted Images/Pasted image 20230728213907.png",
     "Pasted Images/Pasted image 20230728161438.png",
     "Pasted Images/Pasted image 20230728145216.png",
-    "Pasted Images/thm.jpg",
-    "Pasted Images/Pasted image 20230725035739.png",
-    "Pasted Images/Pasted image 20230725035735.png"
+    "Pasted Images/thm.jpg"
   ]
 }
