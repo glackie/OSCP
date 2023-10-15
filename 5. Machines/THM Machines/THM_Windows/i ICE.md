@@ -53,3 +53,42 @@ Host script results:
 ```
 
 
+### Icecast
+
+```c
+Icecast is a freely available, open source streaming audio server. Icecast is available for the Unix, Linux, and Microsoft Windows platforms.
+
+Icecast does not properly check bounds on data sent from clients. Because of this, it is possible for a remote user to send an arbitrarily long string of data to the server, which could result in a stack overflow, and the execution of user supplied code. The code would be executed with the privileges of the Icecast server
+```
+
+
+- Vulnerability Details : CVE-2004-1561
+- used metasploit for this
+```
+exploit(windows/http/icecast_header) >> options
+```
+
+- easily got a shell
+```
+(Meterpreter 1)(C:\Program Files (x86)\Icecast2 Win32) >
+```
+
+
+- - https://www.exploit-db.com/exploits/573 Downloaded this exploit and  followed the [[gcc]] steps - system is vulnerable
+
+### priv ESC
+
+
+- Meterpreter help menu which can be accessed through the 'help' command.
+
+-  First, let's list the processes using the command `ps`.
+
+- `Dark` user was running icecast process
+
+
+---
+
+mostly metasploit based will continue later
+
+
+

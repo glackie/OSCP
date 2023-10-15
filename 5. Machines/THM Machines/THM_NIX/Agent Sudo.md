@@ -1,19 +1,11 @@
-<mark style="background: #BBFABBA6;">NMAP</mark>
+
+### NMAP
 
 
+```
 ─(root💀kali)-[~/Desktop/THM]
 └─# nmap -sT -sV 10.10.27.190    
-Starting Nmap 7.93 ( https://nmap.org ) at 2023-02-04 18:19 IST
-Stats: 0:02:57 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
-Connect Scan Timing: About 49.17% done; ETC: 18:25 (0:03:03 remaining)
-Stats: 0:05:48 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
-Connect Scan Timing: About 66.27% done; ETC: 18:27 (0:02:57 remaining)
-Stats: 0:08:32 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
-Connect Scan Timing: About 82.67% done; ETC: 18:29 (0:01:47 remaining)
-Stats: 0:12:07 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
-Connect Scan Timing: About 99.99% done; ETC: 18:31 (0:00:00 remaining)
-Nmap scan report for 10.10.27.190
-Host is up (0.18s latency).
+
 Not shown: 997 closed tcp ports (conn-refused)
 PORT   STATE SERVICE VERSION
 21/tcp open  ftp     vsftpd 3.0.3
@@ -23,21 +15,19 @@ Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 744.99 seconds
+```
 
+### FTP 
 
+- Anonymous login not allowed on ftp
 
+### HTTP
 
-<mark style="background: #BBFABBA6;">FTP</mark>
+- brute forced using ffuf
 
-Anonymous login not allowed on ftp
-
-<mark style="background: #BBFABBA6;">HTTP</mark>
-
-brute forced using ffuf
-
+```
 ffuf -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://10.10.27.190/FUZZ 
-
-
+```
 
 found nothing
 

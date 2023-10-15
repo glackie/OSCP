@@ -17,3 +17,15 @@ gcc source.c
 
 
 
+example syntax
+
+```
+$ gcc [programName].c -o programName
+```
+
+
+The final step is to run the compiled C program. Use the following syntax to do so:
+
+```
+$ ./programName
+```
