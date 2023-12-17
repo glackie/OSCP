@@ -185,7 +185,7 @@ We use the below command
 And run the output file using john and the "dict.lst"
 
 ```
-[parrot]─[18:46-25/06]─[/home/glack/Desktop/THM/gamingserver]
+[parrot]─[18:46-25/0 6]─[/home/glack/Desktop/THM/gamingserver]
 └╼glack$john forjohn.txt --wordlist=dict.lst
 ```
 

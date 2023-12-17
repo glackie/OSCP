@@ -136,6 +136,14 @@ M3tahuman
 
 maybe this is the password for the other user : slade.
 
+- we get the username by listing the directory on ftp
+
+```
+ftp> cd ..
+ftp> dir
+```
+- we find a username `slade` here
+
 It worked, i was able to ssh login into target machine using
 
 username: slade

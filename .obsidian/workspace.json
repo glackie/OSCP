@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8f476be4cb635909",
+        "id": "d0e665e452c4bea3",
         "type": "tabs",
         "children": [
           {
-            "id": "46ede9e86f1e7610",
+            "id": "f96f52aef53a783f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types/2. IaaS.md",
+                "file": "1. FundaMentals/Crash Courses/2. Memory Corruption/1. Memmoy corruption , buffer overflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e602511d279ac33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Practical tools/Linux Tools/Evilwinrm/1. Evil-WinRm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rdp",
+                "query": "deleted",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types/2. IaaS.md",
+                "file": "3. Practical tools/Linux Tools/Evilwinrm/1. Evil-WinRm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types/2. IaaS.md",
+                "file": "3. Practical tools/Linux Tools/Evilwinrm/1. Evil-WinRm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types/2. IaaS.md"
+                "file": "3. Practical tools/Linux Tools/Evilwinrm/1. Evil-WinRm.md"
               }
             }
           },
@@ -166,44 +179,45 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ca51f12b0f2ca445",
+  "active": "e602511d279ac33e",
   "lastOpenFiles": [
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/4. Azure architecture and services",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types/3. PaaS.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types/4. SaaS.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types/2. IaaS.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types/1. Cloud service types objectives.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/2. Cloud Service Benefits/1. High availability and scalability.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/Untitled.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/2. Cloud Service Benefits/4. Manageability in the cloud.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/2. Cloud Service Benefits/3. Security and governance.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/2. Cloud Service Benefits/2. Reliability and predictability.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Describe Cloud Concepts/3. What is Cloud Computing.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/2. Cloud Service Benefits",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Describe Cloud Concepts/6. Consumption-based model.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Describe Cloud Concepts/Untitled",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Describe Cloud Concepts/5. Cloud models.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Describe Cloud Concepts/4. Shared responsibility model.md",
-    "Pasted Images/az1.mp4",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Describe Cloud Concepts/2. Intro to Cloud Computing.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Describe Cloud Concepts/1. Azure Cloud Info.md",
-    "5. Machines/THM Machines/THM_Windows/Anthem.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Azure info.md",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Describe Cloud Concepts",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals",
-    "5. Machines/THM Machines/THM_Windows/Blueprint.md",
-    "Things Learnt/PEAS links.md",
-    "Things Learnt/Misc - Study Related/How to make your system into a server using python module.md",
+    "3. Practical tools/Linux Tools/Evilwinrm/2. Installing Evil-winrm on parrot.md",
+    "3. Practical tools/Linux Tools/Evilwinrm/1. Evil-WinRm.md",
+    "1. FundaMentals/Crash Courses/3. Active Directory/1. ACtive Directory 101.md",
+    "Things Learnt/FTK Image Viewer - to view deleted files.md",
+    "1. FundaMentals/Crash Courses/3. Active Directory",
+    "1. FundaMentals/Crash Courses/Untitled.md",
+    "Things Learnt/dnSPY.md",
     "Things Learnt/Misc - Study Related/how to try to recover deleted files - example.md",
-    "5. Machines/THM Machines/THM_Windows/i ICE.md",
-    "5. Machines/THM Machines/THM_Windows/Investigating Windows.md",
-    "5. Machines/THM Machines/THM_Windows/Blaster.md",
-    "1. FundaMentals/2. Windows Fundamentals/1. Core of the Operating System - windows/7.3 Other RDP tool for linux.md",
-    "Pasted Images/Recording 20231014212034.webm",
-    "Pasted Images/Recording 20231014212008.webm",
-    "1. FundaMentals/i ANSIVLE",
-    "1. FundaMentals/6. Programming/i Python",
+    "1. FundaMentals/Crash Courses/2. Memory Corruption/1. Memmoy corruption , buffer overflow.md",
+    "Things Learnt/Magic Bytes/1. Magic Bytes.md",
+    "1. FundaMentals/Crash Courses/2. Memory Corruption",
+    "1. FundaMentals/To DO",
+    "1. FundaMentals/To DO.md",
+    "1. FundaMentals/Crash Courses",
+    "Things Learnt/Magic Bytes/2. Singature examples.md",
+    "Things Learnt/Magic Bytes",
+    "5. Machines/THM Machines/THM_NIX/Lian_Yu.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - NOPASSWD vi filename.md",
+    "5. Machines/THM Machines/THM_NIX/year of the rabbit.md",
+    "3. Practical tools/Linux Tools/tar/1. unzziping files.md",
+    "Things Learnt/Post Exploitations/Linux/How to get interactive bash shell - must be run from a terminal.md",
+    "3. Practical tools/Linux Tools/0. Stegnography Tools/stegseek.md",
+    "3. Practical tools/Linux Tools/0. Stegnography Tools/stegcracker.md",
+    "Untitled.md",
+    "3. Practical tools/Linux Tools/1. Web directory brute forcing/davtest/1. davtest.md",
+    "Things Learnt/webdav exploitation.md",
+    "1. FundaMentals/1. Linux Fundamentals/4. Find Files and Directories/2.2 Find 3.md",
+    "1. FundaMentals/1. Linux Fundamentals/4. Find Files and Directories/2. Find 2.md",
+    "1. FundaMentals/1. Linux Fundamentals/4. Find Files and Directories/5. Which.md",
+    "1. FundaMentals/1. Linux Fundamentals/4. Find Files and Directories/4. Locate.md",
+    "1. FundaMentals/1. Linux Fundamentals/4. Find Files and Directories/3. Finding directories and files - Info.md",
+    "Pasted Images/Pasted image 20231216184120.png",
+    "1. FundaMentals/Crash Courses/1. Data Science",
+    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/4. Azure architecture and services",
+    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types",
+    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/2. Cloud Service Benefits",
+    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Describe Cloud Concepts/Untitled",
     "Pasted Images/Pasted image 20230925021259.png",
     "Pasted Images/Pasted image 20230925020947.png",
     "Pasted Images/Pasted image 20230915030216.png",
@@ -212,7 +226,6 @@
     "Pasted Images/Pasted image 20230728214055.png",
     "Pasted Images/Pasted image 20230728213907.png",
     "Pasted Images/Pasted image 20230728161438.png",
-    "Pasted Images/Pasted image 20230728145216.png",
-    "Pasted Images/thm.jpg"
+    "Pasted Images/Pasted image 20230728145216.png"
   ]
 }
