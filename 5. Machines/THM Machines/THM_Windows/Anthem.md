@@ -121,3 +121,14 @@ we get the admin password `ChangeMeBaby1MoreTime`
 
 - We find the admin flag in admin's Desktop folder `THM{Y0U_4R3_1337}`
 
+---
+
+- Found this another method in a writeup to get all the flags together using wget
+
+```
+root@kali:~/thm/anthem# wget --recursive http://10.10.83.110
+
+root@kali:~/thm/anthem# cd 10.10.83.110/
+
+root@kali:~/thm/anthem/10.10.83.110# grep -R 'THM' .
+```

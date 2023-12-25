@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. FundaMentals/Crash Courses/2. Memory Corruption/1. Memmoy corruption , buffer overflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e602511d279ac33e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Practical tools/Linux Tools/Evilwinrm/1. Evil-WinRm.md",
+                "file": "1. FundaMentals/2. Windows Fundamentals/FAQ - windows.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deleted",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Practical tools/Linux Tools/Evilwinrm/1. Evil-WinRm.md",
+                "file": "1. FundaMentals/2. Windows Fundamentals/FAQ - windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Practical tools/Linux Tools/Evilwinrm/1. Evil-WinRm.md",
+                "file": "1. FundaMentals/2. Windows Fundamentals/FAQ - windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Practical tools/Linux Tools/Evilwinrm/1. Evil-WinRm.md"
+                "file": "1. FundaMentals/2. Windows Fundamentals/FAQ - windows.md"
               }
             }
           },
@@ -179,45 +166,46 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e602511d279ac33e",
+  "active": "f96f52aef53a783f",
   "lastOpenFiles": [
-    "3. Practical tools/Linux Tools/Evilwinrm/2. Installing Evil-winrm on parrot.md",
-    "3. Practical tools/Linux Tools/Evilwinrm/1. Evil-WinRm.md",
-    "1. FundaMentals/Crash Courses/3. Active Directory/1. ACtive Directory 101.md",
-    "Things Learnt/FTK Image Viewer - to view deleted files.md",
+    "7. Windows Privileged Escalations/1. General Concepts/1. Info.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/7. StartupApps/1.2 Startup Apps.md",
+    "Things Learnt/Using wget to find a specific keyword in web directories.md",
+    "5. Machines/THM Machines/THM_Windows/Anthem.md",
+    "6. Linux Privileged Escalation/Linux privileged Escalation 2/custom binary.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/7. StartupApps/1.1 Startup Apps.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/8.2 DLL Hijacking.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/8.1 DLL Hijacking.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/7.2 Insecure Service Executables.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/7.1 Insecure Service Executables.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/6.2 Weak Registry Permissions.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/6.1 Weak Registry Permissions.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/5.2 Unquoted Service Path.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/5.1 Unquoted Service Paths.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/4.2 Insecure Service permission.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.2 Service Exploits/4.1 Insecure Service permission.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.1 Service Exploits/3. Services enumeration.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.1 Service Exploits/2. Service Commands.md",
+    "7. Windows Privileged Escalations/2. Priv Esc Techniques/2.1 Service Exploits/1. Services Info.md",
+    "7. Windows Privileged Escalations/1. General Concepts/5.   How to Transfer Files in Setup environment.md",
+    "7. Windows Privileged Escalations/1. General Concepts/4. Priv Esc Tools(automations).md",
+    "7. Windows Privileged Escalations/1. General Concepts/3. Spawning shells.md",
+    "7. Windows Privileged Escalations/1. General Concepts/2. Understanding Permissions in Windows.md",
+    "1. FundaMentals/2. Windows Fundamentals/4. Windows security/6. Security Identifier (SID).md",
+    "1. FundaMentals/2. Windows Fundamentals/4. Windows security/5. Security Accounts Manager (SAM) and Access Control Entries (ACE).md",
+    "1. FundaMentals/2. Windows Fundamentals/4. Windows security/4. Registry.md",
+    "Pasted Images/Pasted image 20231219142053.png",
+    "1. FundaMentals/Crash Courses/Diamond Model",
+    "Projects/Home AD Lab Setup",
+    "Things Learnt/Mitigation Steps",
     "1. FundaMentals/Crash Courses/3. Active Directory",
-    "1. FundaMentals/Crash Courses/Untitled.md",
-    "Things Learnt/dnSPY.md",
-    "Things Learnt/Misc - Study Related/how to try to recover deleted files - example.md",
-    "1. FundaMentals/Crash Courses/2. Memory Corruption/1. Memmoy corruption , buffer overflow.md",
-    "Things Learnt/Magic Bytes/1. Magic Bytes.md",
     "1. FundaMentals/Crash Courses/2. Memory Corruption",
     "1. FundaMentals/To DO",
-    "1. FundaMentals/To DO.md",
     "1. FundaMentals/Crash Courses",
-    "Things Learnt/Magic Bytes/2. Singature examples.md",
     "Things Learnt/Magic Bytes",
-    "5. Machines/THM Machines/THM_NIX/Lian_Yu.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - NOPASSWD vi filename.md",
-    "5. Machines/THM Machines/THM_NIX/year of the rabbit.md",
-    "3. Practical tools/Linux Tools/tar/1. unzziping files.md",
-    "Things Learnt/Post Exploitations/Linux/How to get interactive bash shell - must be run from a terminal.md",
-    "3. Practical tools/Linux Tools/0. Stegnography Tools/stegseek.md",
-    "3. Practical tools/Linux Tools/0. Stegnography Tools/stegcracker.md",
-    "Untitled.md",
-    "3. Practical tools/Linux Tools/1. Web directory brute forcing/davtest/1. davtest.md",
-    "Things Learnt/webdav exploitation.md",
-    "1. FundaMentals/1. Linux Fundamentals/4. Find Files and Directories/2.2 Find 3.md",
-    "1. FundaMentals/1. Linux Fundamentals/4. Find Files and Directories/2. Find 2.md",
-    "1. FundaMentals/1. Linux Fundamentals/4. Find Files and Directories/5. Which.md",
-    "1. FundaMentals/1. Linux Fundamentals/4. Find Files and Directories/4. Locate.md",
-    "1. FundaMentals/1. Linux Fundamentals/4. Find Files and Directories/3. Finding directories and files - Info.md",
     "Pasted Images/Pasted image 20231216184120.png",
     "1. FundaMentals/Crash Courses/1. Data Science",
     "1. FundaMentals/5.1 Microsoft Azure Fundamentals/4. Azure architecture and services",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/3. Cloud service Types",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/2. Cloud Service Benefits",
-    "1. FundaMentals/5.1 Microsoft Azure Fundamentals/1. Describe Cloud Concepts/Untitled",
     "Pasted Images/Pasted image 20230925021259.png",
     "Pasted Images/Pasted image 20230925020947.png",
     "Pasted Images/Pasted image 20230915030216.png",
@@ -225,7 +213,6 @@
     "Pasted Images/Pasted image 20230829030019.png",
     "Pasted Images/Pasted image 20230728214055.png",
     "Pasted Images/Pasted image 20230728213907.png",
-    "Pasted Images/Pasted image 20230728161438.png",
-    "Pasted Images/Pasted image 20230728145216.png"
+    "Pasted Images/Pasted image 20230728161438.png"
   ]
 }
