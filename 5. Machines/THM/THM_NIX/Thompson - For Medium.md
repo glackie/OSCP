@@ -106,7 +106,7 @@ Started a netcat listener
 
 And it did't work, so i had come across this type of exploit also in the past when trying to exploit a HTB machine - 'Jerry', so i used the knowledge base i created then to see where i went wrong
 
-Ok so [[5. Machines/HTB Machines/Jerry/2. foothold|2. foothold]] This explains the details i'll just get into it
+Ok so [[5. Machines/HTB/To Work On/Jerry/2. foothold|2. foothold]] This explains the details i'll just get into it
 
 Used this command to list the contents of war file
 

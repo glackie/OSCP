@@ -1,7 +1,7 @@
-Obviously i didnt find anything and solved it.
 
 
-Used this resource to understand the vuln and breaking the ruby code
+
+- Used this resource to understand the vuln and breaking the ruby code
 
 https://drt.sh/posts/htb-neonify/
 
@@ -14,7 +14,5 @@ HTB{r3pl4c3m3n7_s3cur1ty}
 
 ```
 
-```
-HTB{f4k3_fl4g_f0r_t3st1ng}
-```
+
 

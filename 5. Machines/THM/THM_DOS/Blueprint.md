@@ -82,8 +82,6 @@ https://www.exploit-db.com/exploits/44374
 http://10.10.220.55:8080/oscommerce-2.3.4/catalog/install/
 
 
-10.10.220.55:8080
-
 this exploit was not successfull
 
 
