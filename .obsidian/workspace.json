@@ -8,26 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3416d435e6467074",
+            "id": "da9dd1092c1bf8d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things Learnt/Stuck/port 22 and 80 are open but no leads.md",
+                "file": "Things Learnt/Foxyproxy alternative.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7cee269db8774e83",
+            "id": "d33a5dd3d09e82c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "5. Machines/HTB/HTB Challanges/Neonified.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.8"
               }
             }
           }
@@ -61,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proxy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Machines/HTB/HTB Challanges/Neonified.md",
+                "file": "Things Learnt/Foxyproxy alternative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Machines/HTB/HTB Challanges/Neonified.md",
+                "file": "Things Learnt/Foxyproxy alternative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Machines/HTB/HTB Challanges/Neonified.md"
+                "file": "Things Learnt/Foxyproxy alternative.md"
               }
             }
           },
@@ -156,7 +155,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -179,37 +180,41 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7cee269db8774e83",
+  "active": "d33a5dd3d09e82c8",
   "lastOpenFiles": [
-    "5. Machines/HTB/HTB_Nix/m CozyHosting.md",
-    "Things Learnt/Stuck/Potential command injections in webapp.md",
-    "Things Learnt/Stuck/port 22 and 80 are open but no leads.md",
-    "3. Practical tools/Linux Tools/1. Web directory brute forcing/Ffuf/Parameter fuzzing/Parameter Fuzzing - POST.md",
-    "2. Network services/Postgresql Commands.md",
+    "creds/mysql windows installation.md",
+    "1. FundaMentals/6. Programming/Python/22. Python package creation.md",
+    "Pasted image 20240306203420.png",
+    "1. FundaMentals/6. Programming/Web Development/0. Web Development Notes/13. What is React.js.md",
+    "1. FundaMentals/6. Programming/Python/21. Time, scheduling and launching programs.md",
+    "1. FundaMentals/6. Programming/Python/20. Excel with python -- basic.md",
+    "1. FundaMentals/6. Programming/Python/19.2 Web scraping - bs4, selenium.md",
+    "1. FundaMentals/6. Programming/Python/19.1 Web scraping - webbrowser and request.md",
+    "1. FundaMentals/6. Programming/Python/18. Handling user arguments.md",
+    "1. FundaMentals/6. Programming/Python/17. Organization and file manipulation.md",
+    "1. FundaMentals/6. Programming/Python/16. Manager Paths and file details.md",
+    "1. FundaMentals/6. Programming/Python/15. Python regex.md",
+    "1. FundaMentals/6. Programming/Python/14. Python Functions.md",
+    "1. FundaMentals/6. Programming/Python/13.1 Python Useful operators cotd.md",
+    "1. FundaMentals/6. Programming/Python/13. Python Useful operators.md",
+    "1. FundaMentals/6. Programming/Python/12. While Loops.md",
+    "1. FundaMentals/6. Programming/Python/11. Python for loops.md",
+    "1. FundaMentals/6. Programming/Python/10. Python If - else.md",
+    "1. FundaMentals/6. Programming/Python/9. Sets and Booleans.md",
+    "1. FundaMentals/6. Programming/Python/8. Python Tuples.md",
+    "1. FundaMentals/6. Programming/Python/7. Python Dictionaries.md",
+    "1. FundaMentals/6. Programming/Python/6. Python Lists.md",
+    "1. FundaMentals/6. Programming/Python/5. Python Strings.md",
+    "1. FundaMentals/6. Programming/Python/4. Python Casting.md",
+    "1. FundaMentals/6. Programming/Python/3. Python Data Types.md",
+    "1. FundaMentals/6. Programming/Python/2. Python Variables.md",
+    "1. FundaMentals/6. Programming/Python/1. Python Info.md",
+    "creds",
+    "Pasted image 20240205211358.png",
+    "1. FundaMentals/i Bug Bounty Hunting/TrafficJunky - 1st bug bounty program",
     "Things Learnt/Stuck",
-    "5. Machines/HTB/To Work On/Blocky/3. shell.md",
     "2. Network services/Untitled",
-    "3. Practical tools/Linux Tools/0. Stegnography Tools/stegsolve/Stegsolve.md",
-    "6. Linux Privileged Escalation/Linux privileged Escalation 2/Sudo - priv esc/Sudo - (ALL, !root).md",
-    "Things Learnt/Post Exploitations/Linux/Using netstat to see localhost ports and connections.md",
-    "Things Learnt/Post Exploitations/Linux/transfer files via netcat from target to local.md",
-    "Things Learnt/Post Exploitations/Linux/Stable shell via socat.md",
-    "Things Learnt/Post Exploitations/Linux/localhost ports and services.md",
-    "Things Learnt/Post Exploitations/Linux/How to make php reverse shell.md",
-    "Things Learnt/Post Exploitations/Linux/How to get interactive bash shell - must be run from a terminal.md",
-    "Things Learnt/Post Exploitations/Linux/How to find wirtable files with current user.md",
-    "3. Practical tools/Linux Tools/hydra/hydra http.md",
-    "3. Practical tools/Linux Tools/hydra/hydra ftp.md",
-    "3. Practical tools/Linux Tools/hydra/hydra fererence.md",
     "Pasted Images/Pasted image 20231227202613.png",
-    "3. Practical tools/Linux Tools/1. Web directory brute forcing/dirsearch.md",
-    "3. Practical tools/Linux Tools/1. Web directory brute forcing/Ffuf/Parameter fuzzing/Parameter Fuzzing - GET.md",
-    "3. Practical tools/Linux Tools/1. Web directory brute forcing/Ffuf/Domain fuzzing/DNS Records.md",
-    "3. Practical tools/Linux Tools/1. Web directory brute forcing/Ffuf/Domain fuzzing/Filtering Results.md",
-    "3. Practical tools/Linux Tools/1. Web directory brute forcing/Ffuf/Domain fuzzing/Sub-domain Fuzzing.md",
-    "3. Practical tools/Linux Tools/1. Web directory brute forcing/Ffuf/Domain fuzzing/Vhost Fuzzing.md",
-    "3. Practical tools/Linux Tools/1. Web directory brute forcing/Ffuf/ffuf - cheatsheet.md",
-    "3. Practical tools/Linux Tools/1. Web directory brute forcing/Ffuf/ffuf - info.md",
     "5. Machines/HTB/HTB_Nix",
     "5. Machines/HTB/To Work On",
     "5. Machines/Websites/OSCP notes online",
@@ -218,14 +223,10 @@
     "Pasted Images/Pasted image 20231225124752.png",
     "Pasted Images/Pasted image 20231219142053.png",
     "1. FundaMentals/Crash Courses/Diamond Model",
-    "Projects/Home AD Lab Setup",
-    "Things Learnt/Mitigation Steps",
     "Pasted Images/Pasted image 20231216184120.png",
     "Pasted Images/Pasted image 20230925021259.png",
     "Pasted Images/Pasted image 20230925020947.png",
     "Pasted Images/Pasted image 20230915030216.png",
-    "Pasted Images/Pasted image 20220925183428.png",
-    "Pasted Images/Pasted image 20230829030019.png",
-    "Pasted Images/Pasted image 20230728214055.png"
+    "Pasted Images/Pasted image 20220925183428.png"
   ]
 }
