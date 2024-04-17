@@ -58,3 +58,24 @@ letmein          (secretKey)
 
 ```
 
+
+----
+
+#### SSH2John Error
+
+- incase you come across this 
+```
+john forjohn.hash --wordlist=/usr/share/wordlists/rockyou.txt
+Using default input encoding: UTF-8
+Loaded 1 password hash (SSH, SSH private key [RSA/DSA/EC/OPENSSH 32/64])
+No password hashes left to crack (see FAQ
+```
+
+- Try
+```
+john --show forjohn.hash              ✔  18:32:19   
+id_rsa:james13
+
+1 password hash cracked, 0 left
+
+```
